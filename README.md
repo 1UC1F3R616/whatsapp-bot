@@ -20,3 +20,15 @@ Release date:--> 1-1-2019.
 </br>
 
 VersionF1: Send same or differnt messages to large number of people at same or differnt time(Make use of multi threading).
+
+</br>
+
+Fork this.
+
+</br>
+
+Create a Pull Request by adding feaature that you wamt it to have.
+
+</br>
+
+I will add it than.
