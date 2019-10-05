@@ -9,14 +9,17 @@
 
 ### Version: 1.0.1:
 </br>
+
 #### Functionalites:
 [-] Send number of messages to your freinds or a group. Release date:--> 31-12-2018.
+
 [-] Send whatsapp messages to your friends at specific time you want (omnipresent).
 
 </br> </br>
 
 ### Version 1.0.3: November 1 2019
 </br>
+
 #### Functionalities:
 - Multi User Handling
 - Download DP
@@ -29,6 +32,7 @@
 
 ### Version 2.0.1: Undeclared
 </br>
+
 #### Functionalites:
 - Chat Bot for Whatsapp!
 - Abuse Filter
@@ -37,6 +41,7 @@
 
 ### Version 2.0.3: Undeclared
 </br>
+
 #### Functionalites:
 - Users activity graph plot in Realtime
 - Chat analysis!
@@ -45,5 +50,6 @@
 
 ### Version 3.0.1: Undeclared
 </br>
+
 #### Functionalites:
 - Web Framework
