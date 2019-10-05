@@ -5,30 +5,50 @@
 
 # whatsapp-bot
 
+### Version: 1.0.1:
 </br>
+#### Functionalites:
 
-Version1: Send number of messages to your freinds or a group. Release date:--> 31-12-2018.
+[-] Send number of messages to your freinds or a group. Release date:--> 31-12-2018.
 
-</br>
+[-] Send whatsapp messages to your friends at specific time you want (omnipresent).
 
-Version2: Added feature-->Send whatsapp messages to your friends at specific time (once you have logged in) you want and become omnipresent.
+</br> </br>
 
-</br>
 
-Release date:--> 1-1-2019.
-
-</br>
-
-VersionF1: Send same or differnt messages to large number of people at same or differnt time(Make use of multi threading).
+### Version 1.0.3: November 1 2019
 
 </br>
 
-Fork this.
+#### Functionalities:
+- Multi User Handling
+- Download DP
+- Download all images or partial number of Images, Videos, GIFS, other Media Files form Chat
+- Spam a user
+- Auto Timer message send
+- Chat Import in Beautiful Format
 
+
+</br></br>
+
+### Version 2.0.1: Undeclared
 </br>
 
-Create a Pull Request by adding feaature that you wamt it to have.
+#### Functionalites:
+- Chat Bot for Whatsapp!
+- Abuse Filter
 
+</br></br>
+
+### Version 2.0.3: Undeclared
 </br>
+#### Functionalites:
+- Users activity graph plot in Realtime
+- Chat analysis!
 
-I will add it than.
+</br></br>
+
+### Version 3.0.1: Undeclared
+</br>
+#### Functionalites:
+- Web Framework
